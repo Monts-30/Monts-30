@@ -17,5 +17,8 @@ Atualmente estou cursando o 1° Semestre de Ciência da Computação<br>na UniCE
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Monts-30&icon=1&color=11)](https://visitcount.itsvg.in)
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/bd/ec/4b/bdec4b1e34dc84a380e58f596766182d.gif"  />
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+###
