@@ -3,7 +3,15 @@ Atualmente estou cursando o 1° Semestre de Ciência da Computação<br>na UniCE
 
 
 ## 🌐 Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@m00nts_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@moooonts) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:murilo.monteiro@sempreceub.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@m00nts_) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@moooonts) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:murilo.monteiro@sempreceub.com)
+
+<div align="center">
+  <a href="https://open.spotify.com/user/zzv16k8hs518mfe8sg0xamlan">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=zzv16k8hs518mfe8sg0xamlan&count=5" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 # 💻 Conhecimento Tecninco:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)
