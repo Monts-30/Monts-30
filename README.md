@@ -10,6 +10,16 @@ Atualmente estou cursando o 1° Semestre de Ciência da Computação<br>na UniCE
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=zzv16k8hs518mfe8sg0xamlan&count=5" alt="Spotify recently played"  />
   </a>
 </div>
+<div align="left">
+  <a href="https://www.linkedin.com/in/murilo-gomes-monteiro-morgado-b3a511365/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@moooonts" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+</div>
+
+###
 
 ###
 
